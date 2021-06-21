@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME PAYROLL", "ACME PAYROLL\ACME PAYROLL.csproj", "{96E60B32-204C-463A-AA34-9FDF5CF00B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTPAYROLL", "TESTPAYROLL\TESTPAYROLL.csproj", "{56F27C4B-2742-4218-81B3-C743AF434294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E60B32-204C-463A-AA34-9FDF5CF00B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E60B32-204C-463A-AA34-9FDF5CF00B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E60B32-204C-463A-AA34-9FDF5CF00B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E60B32-204C-463A-AA34-9FDF5CF00B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F27C4B-2742-4218-81B3-C743AF434294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F27C4B-2742-4218-81B3-C743AF434294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F27C4B-2742-4218-81B3-C743AF434294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F27C4B-2742-4218-81B3-C743AF434294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A8BADC-7050-47B0-90F5-7B2B22C466D6}
+	EndGlobalSection
+EndGlobal

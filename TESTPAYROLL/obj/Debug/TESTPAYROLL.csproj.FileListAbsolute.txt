@@ -1,0 +1,17 @@
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\TESTPAYROLL.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\TESTPAYROLL.pdb
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\ACME PAYROLL.exe
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\ACME PAYROLL.pdb
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\ACME PAYROLL.exe.config
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\obj\Debug\TESTPAYROLL.csproj.AssemblyReference.cache
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\obj\Debug\TESTPAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\obj\Debug\TESTPAYROLL.csproj.CopyComplete
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\obj\Debug\TESTPAYROLL.dll
+C:\Users\gab08\Desktop\ACME PAYROLL\TESTPAYROLL\obj\Debug\TESTPAYROLL.pdb

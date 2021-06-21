@@ -1,0 +1,7 @@
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\bin\Debug\ACME PAYROLL.exe.config
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\bin\Debug\ACME PAYROLL.exe
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\bin\Debug\ACME PAYROLL.pdb
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\obj\Debug\ACME PAYROLL.csproj.AssemblyReference.cache
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\obj\Debug\ACME PAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\obj\Debug\ACME PAYROLL.exe
+C:\Users\gab08\Desktop\ACME PAYROLL\ACME PAYROLL\obj\Debug\ACME PAYROLL.pdb
